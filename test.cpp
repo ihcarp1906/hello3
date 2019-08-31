@@ -2,7 +2,7 @@
 #include<conio.h>
 int main()
 {
-    int a = 5;
+    int a = 15;
     cout<<"enter the name ";
     cout<<"enter the age";
     cout<<"My name is prachi";
@@ -13,3 +13,4 @@ int main()
     
 }//step 1:
 //second commit changes:
+// change on local machine:
